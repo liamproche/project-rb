@@ -4,7 +4,7 @@
 }
 body{
     font-size: 18px;
-    font-family: 'Young Serif', serif;
+    font-family: 'Poppins', sans-serif;
     height: 75vh;
 }
 header{
@@ -12,6 +12,10 @@ header{
     height: 10vh;
     display: flex;
     justify-content: flex-end;
+}
+
+.pvg-logo-small{
+    margin-right: 5%;
 }
 
 /* FONT SIZING */
